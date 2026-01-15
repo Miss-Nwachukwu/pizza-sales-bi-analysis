@@ -4,6 +4,7 @@ Tools: Power BI | Tableau | SQL-style Data Modeling | DAX
 
 📌 Project Overview
 This project analyzes pizza sales data to uncover revenue patterns, demand behavior, and product performance.
+
 The same dataset was explored using both Power BI and Tableau to demonstrate how different BI tools influence visual storytelling, layout, and insight communication.
 
 🗂 Dataset
